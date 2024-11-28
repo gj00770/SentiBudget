@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import { HeaderWarper, HeaderItem, Logout } from "./style";
+import { HeaderItem, HeaderWarper, Logout } from "./style";
 
 export const Header: FunctionComponent = () => {
   return (
